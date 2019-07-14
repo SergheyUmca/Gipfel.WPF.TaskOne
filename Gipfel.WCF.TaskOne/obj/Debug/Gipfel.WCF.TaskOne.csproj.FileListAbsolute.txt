@@ -1,0 +1,7 @@
+C:\Repos\Home\Gipfel.WPF.TaskOne\Gipfel.WCF.TaskOne\bin\Gipfel.WCF.TaskOne.dll.config
+C:\Repos\Home\Gipfel.WPF.TaskOne\Gipfel.WCF.TaskOne\bin\Gipfel.WCF.TaskOne.dll
+C:\Repos\Home\Gipfel.WPF.TaskOne\Gipfel.WCF.TaskOne\bin\Gipfel.WCF.TaskOne.pdb
+C:\Repos\Home\Gipfel.WPF.TaskOne\Gipfel.WCF.TaskOne\obj\Debug\Gipfel.WCF.TaskOne.csprojAssemblyReference.cache
+C:\Repos\Home\Gipfel.WPF.TaskOne\Gipfel.WCF.TaskOne\obj\Debug\Gipfel.WCF.TaskOne.csproj.CoreCompileInputs.cache
+C:\Repos\Home\Gipfel.WPF.TaskOne\Gipfel.WCF.TaskOne\obj\Debug\Gipfel.WCF.TaskOne.dll
+C:\Repos\Home\Gipfel.WPF.TaskOne\Gipfel.WCF.TaskOne\obj\Debug\Gipfel.WCF.TaskOne.pdb
